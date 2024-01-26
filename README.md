@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megh212
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently Red Teamer 
 - 💞️ I’m looking to collaborate on cybersecurity project 
 - 📫 How to reach me my mail- meghraj312002@gmail.com
 
